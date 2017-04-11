@@ -1,0 +1,25 @@
+{
+  "name": "myproject",
+  "description": "my gteat project",
+  "main": "",
+  "authors": [
+    "Den"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jQuery": "^3.2.1",
+    "bxslider-4": "bxSlider#^4.2.12"
+  },
+  "devDependencies": {
+    "normalize-scss": "normalize.scss#^6.0.0"
+  }
+}
